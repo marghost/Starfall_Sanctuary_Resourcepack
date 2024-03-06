@@ -1,0 +1,8 @@
+{
+   "pack":{
+      "pack_format":18,
+      "description":"Starfall Sanctuary Resourcepack v0.0.1",
+	  "_credits": "Custom Ressourcepack that is a mix of a few sources.  See the CREDITS file for proper thanks."
+      "supported_formats": {"min_inclusive": 15, "max_inclusive": 30}
+   }
+}
