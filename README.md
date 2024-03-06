@@ -3,7 +3,7 @@
 - Creator : Marghost
 - Email : marghost[@]protonmail.com
 - Website : https://thegeekghost.com
-- Project's Github : https://github.com/marghost/Starfall_Sanctuary_Resourcepack_v0.0.1
+- Project's Github : https://github.com/marghost/Starfall_Sanctuary_Resourcepack
 
 ## Description
 
