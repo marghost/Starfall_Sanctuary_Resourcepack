@@ -23,7 +23,7 @@ Tested on minecraft java version **1.20.4**.
 - Open model_list.csv with excel.  Use "," or "comma" as a delimiter to select columns.
 - You should have 3 columns; item, custom_model_data, model.  This is the info you need to transform an item.
 
-2) Transform the model
+2) Transform the item with your custom model
 - Pick the selected item and have it selected in your hand.
 - Run the followning command using data from the CSV `/trigger CustomModelData set <custom_model_data>`.
 - You need to have at least 1 level to use this command.
